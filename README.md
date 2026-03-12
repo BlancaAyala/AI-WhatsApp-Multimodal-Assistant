@@ -1,4 +1,4 @@
-AI WhatsApp Multimodal Assistant
+AI WhatsApp Multimodal Assistant - Asistente multimodal de WhatsApp con IA
 
 n8n • WhatsApp API • Google Gemini
 
